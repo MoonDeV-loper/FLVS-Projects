@@ -1,6 +1,6 @@
 # Assigment 02.06 Project
 # Date: Wed 27/01/2025 #2025 already! 
-# Student: Daniel Bealer 
+# Student: modeoiz
 # Grade: 11th
 # Purpose: Calculating prices with a small twist.
 
